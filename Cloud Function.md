@@ -1,5 +1,5 @@
 ---
-title: 'Project documentation template'
+title: 'GCP Cloud Fuction'
 disqus: hackmd
 ---
 
